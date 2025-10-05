@@ -1,0 +1,1094 @@
+[
+  {
+    "prediction_id": 1,
+    "time21_5": "2025-10-05T19:57Z",
+    "days_from_now": -0.09,
+    "cme_parameters": {
+      "latitude": -2.78,
+      "longitude": 14.89,
+      "halfAngle": 27.68,
+      "speed": 525.34
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-09T03:16Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.9,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 2,
+    "time21_5": "2025-10-07T05:57Z",
+    "days_from_now": 1.32,
+    "cme_parameters": {
+      "latitude": -4.84,
+      "longitude": -0.96,
+      "halfAngle": 27.19,
+      "speed": 525.88
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-10T13:11Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.88,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 3,
+    "time21_5": "2025-10-07T06:57Z",
+    "days_from_now": 1.37,
+    "cme_parameters": {
+      "latitude": -1.84,
+      "longitude": 6.18,
+      "halfAngle": 25.53,
+      "speed": 617.14
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-10T02:28Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.88,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 4,
+    "time21_5": "2025-10-07T15:19Z",
+    "days_from_now": 1.72,
+    "cme_parameters": {
+      "latitude": -4.5,
+      "longitude": 9.31,
+      "halfAngle": 26.93,
+      "speed": 585.96
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-10T14:26Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.86,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 5,
+    "time21_5": "2025-10-07T16:19Z",
+    "days_from_now": 1.76,
+    "cme_parameters": {
+      "latitude": -2.44,
+      "longitude": 4.83,
+      "halfAngle": 26.72,
+      "speed": 656.79
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-10T07:46Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.86,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 6,
+    "time21_5": "2025-10-07T17:19Z",
+    "days_from_now": 1.8,
+    "cme_parameters": {
+      "latitude": -3.66,
+      "longitude": 11.73,
+      "halfAngle": 25.06,
+      "speed": 675.18
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-10T07:02Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.86,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 7,
+    "time21_5": "2025-10-09T02:18Z",
+    "days_from_now": 3.17,
+    "cme_parameters": {
+      "latitude": -4.44,
+      "longitude": 7.99,
+      "halfAngle": 26.33,
+      "speed": 688.65
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-11T14:48Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.84,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 8,
+    "time21_5": "2025-10-09T17:17Z",
+    "days_from_now": 3.8,
+    "cme_parameters": {
+      "latitude": -2.27,
+      "longitude": 12.59,
+      "halfAngle": 26.58,
+      "speed": 625.19
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-12T11:56Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.82,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 9,
+    "time21_5": "2025-10-09T19:40Z",
+    "days_from_now": 3.9,
+    "cme_parameters": {
+      "latitude": -2.7,
+      "longitude": 8.98,
+      "halfAngle": 26.41,
+      "speed": 618.61
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-12T15:01Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.82,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 10,
+    "time21_5": "2025-10-11T15:41Z",
+    "days_from_now": 5.73,
+    "cme_parameters": {
+      "latitude": -1.83,
+      "longitude": 8.98,
+      "halfAngle": 26.0,
+      "speed": 663.56
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-14T06:29Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.78,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 11,
+    "time21_5": "2025-10-11T16:41Z",
+    "days_from_now": 5.77,
+    "cme_parameters": {
+      "latitude": -1.81,
+      "longitude": 10.05,
+      "halfAngle": 25.25,
+      "speed": 648.97
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-14T08:53Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.78,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 12,
+    "time21_5": "2025-10-12T16:30Z",
+    "days_from_now": 6.76,
+    "cme_parameters": {
+      "latitude": -1.12,
+      "longitude": 12.82,
+      "halfAngle": 25.16,
+      "speed": 657.97
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-15T07:49Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.76,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 13,
+    "time21_5": "2025-10-12T17:30Z",
+    "days_from_now": 6.81,
+    "cme_parameters": {
+      "latitude": -1.67,
+      "longitude": 11.47,
+      "halfAngle": 25.51,
+      "speed": 629.87
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-15T11:39Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.76,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 14,
+    "time21_5": "2025-10-14T03:36Z",
+    "days_from_now": 8.23,
+    "cme_parameters": {
+      "latitude": -2.27,
+      "longitude": 10.41,
+      "halfAngle": 25.12,
+      "speed": 659.27
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-16T18:48Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.74,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 15,
+    "time21_5": "2025-10-14T04:36Z",
+    "days_from_now": 8.27,
+    "cme_parameters": {
+      "latitude": -0.81,
+      "longitude": 11.78,
+      "halfAngle": 24.82,
+      "speed": 624.32
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-16T23:20Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.74,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 16,
+    "time21_5": "2025-10-14T05:36Z",
+    "days_from_now": 8.31,
+    "cme_parameters": {
+      "latitude": 1.17,
+      "longitude": 11.45,
+      "halfAngle": 25.3,
+      "speed": 612.69
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-17T01:36Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.74,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 17,
+    "time21_5": "2025-10-14T11:15Z",
+    "days_from_now": 8.55,
+    "cme_parameters": {
+      "latitude": -3.28,
+      "longitude": 14.2,
+      "halfAngle": 24.66,
+      "speed": 648.13
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-17T03:32Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.72,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 18,
+    "time21_5": "2025-10-14T12:15Z",
+    "days_from_now": 8.59,
+    "cme_parameters": {
+      "latitude": -3.6,
+      "longitude": 15.08,
+      "halfAngle": 25.1,
+      "speed": 637.05
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-17T05:39Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.72,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 19,
+    "time21_5": "2025-10-15T08:26Z",
+    "days_from_now": 9.43,
+    "cme_parameters": {
+      "latitude": -2.86,
+      "longitude": 15.89,
+      "halfAngle": 25.48,
+      "speed": 640.93
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-18T01:27Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.72,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 20,
+    "time21_5": "2025-10-15T09:26Z",
+    "days_from_now": 9.47,
+    "cme_parameters": {
+      "latitude": -3.69,
+      "longitude": 13.64,
+      "halfAngle": 25.16,
+      "speed": 626.11
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-18T03:59Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.72,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 21,
+    "time21_5": "2025-10-15T14:13Z",
+    "days_from_now": 9.67,
+    "cme_parameters": {
+      "latitude": -4.01,
+      "longitude": 10.13,
+      "halfAngle": 24.86,
+      "speed": 626.57
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-18T08:42Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.7,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 22,
+    "time21_5": "2025-10-15T15:13Z",
+    "days_from_now": 9.71,
+    "cme_parameters": {
+      "latitude": -4.15,
+      "longitude": 13.06,
+      "halfAngle": 24.76,
+      "speed": 650.86
+    },
+    "impact_assessment": {
+      "impact_level": "High",
+      "severity_score": 8,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-18T07:14Z",
+      "geomagnetic_storm_potential": "High"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.7,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 23,
+    "time21_5": "2025-10-16T09:51Z",
+    "days_from_now": 10.49,
+    "cme_parameters": {
+      "latitude": -4.16,
+      "longitude": 8.95,
+      "halfAngle": 25.54,
+      "speed": 631.67
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-19T03:49Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.7,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 24,
+    "time21_5": "2025-10-16T20:40Z",
+    "days_from_now": 10.94,
+    "cme_parameters": {
+      "latitude": -4.39,
+      "longitude": 13.76,
+      "halfAngle": 24.95,
+      "speed": 645.96
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-19T13:10Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.68,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 25,
+    "time21_5": "2025-10-17T15:28Z",
+    "days_from_now": 11.72,
+    "cme_parameters": {
+      "latitude": -3.26,
+      "longitude": 10.15,
+      "halfAngle": 25.57,
+      "speed": 619.75
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-20T10:42Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.66,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 26,
+    "time21_5": "2025-10-17T16:28Z",
+    "days_from_now": 11.76,
+    "cme_parameters": {
+      "latitude": -1.61,
+      "longitude": 5.61,
+      "halfAngle": 24.84,
+      "speed": 615.87
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-20T12:07Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.66,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 27,
+    "time21_5": "2025-10-18T07:14Z",
+    "days_from_now": 12.38,
+    "cme_parameters": {
+      "latitude": -1.79,
+      "longitude": 10.35,
+      "halfAngle": 24.9,
+      "speed": 613.1
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-21T03:12Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.66,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 28,
+    "time21_5": "2025-10-18T15:11Z",
+    "days_from_now": 12.71,
+    "cme_parameters": {
+      "latitude": -1.54,
+      "longitude": 10.8,
+      "halfAngle": 25.07,
+      "speed": 609.28
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-21T11:35Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.64,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 29,
+    "time21_5": "2025-10-19T10:05Z",
+    "days_from_now": 13.5,
+    "cme_parameters": {
+      "latitude": -2.71,
+      "longitude": 11.52,
+      "halfAngle": 25.11,
+      "speed": 633.39
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-22T03:52Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.64,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 30,
+    "time21_5": "2025-10-19T11:31Z",
+    "days_from_now": 13.56,
+    "cme_parameters": {
+      "latitude": -0.26,
+      "longitude": 10.61,
+      "halfAngle": 24.95,
+      "speed": 598.04
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-22T09:12Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.62,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 31,
+    "time21_5": "2025-10-19T12:31Z",
+    "days_from_now": 13.6,
+    "cme_parameters": {
+      "latitude": -0.69,
+      "longitude": 11.06,
+      "halfAngle": 24.69,
+      "speed": 606.71
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-22T09:12Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.62,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 32,
+    "time21_5": "2025-10-20T18:16Z",
+    "days_from_now": 14.84,
+    "cme_parameters": {
+      "latitude": -0.66,
+      "longitude": 12.63,
+      "halfAngle": 24.47,
+      "speed": 616.24
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-23T13:53Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.6,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 33,
+    "time21_5": "2025-10-20T19:16Z",
+    "days_from_now": 14.88,
+    "cme_parameters": {
+      "latitude": -1.34,
+      "longitude": 15.02,
+      "halfAngle": 24.7,
+      "speed": 615.64
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-23T14:57Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.6,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 34,
+    "time21_5": "2025-10-21T12:16Z",
+    "days_from_now": 15.59,
+    "cme_parameters": {
+      "latitude": -0.98,
+      "longitude": 15.19,
+      "halfAngle": 25.19,
+      "speed": 612.17
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-24T08:20Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.58,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 35,
+    "time21_5": "2025-10-22T09:59Z",
+    "days_from_now": 16.49,
+    "cme_parameters": {
+      "latitude": -1.88,
+      "longitude": 16.71,
+      "halfAngle": 24.46,
+      "speed": 608.25
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-25T06:29Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.58,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 36,
+    "time21_5": "2025-10-22T10:59Z",
+    "days_from_now": 16.53,
+    "cme_parameters": {
+      "latitude": -1.62,
+      "longitude": 14.33,
+      "halfAngle": 24.93,
+      "speed": 589.56
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-25T09:40Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.56,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 37,
+    "time21_5": "2025-10-22T23:34Z",
+    "days_from_now": 17.06,
+    "cme_parameters": {
+      "latitude": -2.46,
+      "longitude": 12.06,
+      "halfAngle": 24.52,
+      "speed": 625.15
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-25T18:13Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.56,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 38,
+    "time21_5": "2025-10-23T06:27Z",
+    "days_from_now": 17.35,
+    "cme_parameters": {
+      "latitude": -3.51,
+      "longitude": 13.99,
+      "halfAngle": 24.47,
+      "speed": 628.05
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-26T00:47Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.56,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 39,
+    "time21_5": "2025-10-23T14:25Z",
+    "days_from_now": 17.68,
+    "cme_parameters": {
+      "latitude": -2.93,
+      "longitude": 11.44,
+      "halfAngle": 24.73,
+      "speed": 622.13
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-26T09:23Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.54,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 40,
+    "time21_5": "2025-10-23T15:25Z",
+    "days_from_now": 17.72,
+    "cme_parameters": {
+      "latitude": -2.04,
+      "longitude": 13.39,
+      "halfAngle": 25.12,
+      "speed": 593.46
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-26T13:37Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.54,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 41,
+    "time21_5": "2025-10-24T15:05Z",
+    "days_from_now": 18.71,
+    "cme_parameters": {
+      "latitude": -0.85,
+      "longitude": 5.77,
+      "halfAngle": 24.79,
+      "speed": 606.8
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-27T11:45Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.52,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  },
+  {
+    "prediction_id": 42,
+    "time21_5": "2025-10-25T14:55Z",
+    "days_from_now": 19.7,
+    "cme_parameters": {
+      "latitude": -0.88,
+      "longitude": 14.42,
+      "halfAngle": 23.93,
+      "speed": 620.11
+    },
+    "impact_assessment": {
+      "impact_level": "Medium",
+      "severity_score": 6,
+      "earth_directed": true,
+      "estimated_arrival": "2025-10-28T10:07Z",
+      "geomagnetic_storm_potential": "Moderate"
+    },
+    "metadata": {
+      "type": "S",
+      "isMostAccurate": true,
+      "catalog": "M2M_CATALOG",
+      "dataLevel": "0",
+      "confidence_score": 0.5,
+      "prediction_method": "Deep-LSTM + RF + GBM Ensemble"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "seq_length": 10,
+  "target_features": [
+    "latitude",
+    "longitude",
+    "halfAngle",
+    "speed"
+  ],
+  "time_features": [
+    "year",
+    "month",
+    "day",
+    "hour",
+    "dayofyear",
+    "dayofweek",
+    "time_diff"
+  ],
+  "rolling_features": [
+    "speed_rolling_mean",
+    "speed_rolling_std",
+    "lat_rolling_mean",
+    "lon_rolling_mean"
+  ],
+  "all_features": [
+    "year",
+    "month",
+    "day",
+    "hour",
+    "dayofyear",
+    "dayofweek",
+    "time_diff",
+    "speed_rolling_mean",
+    "speed_rolling_std",
+    "lat_rolling_mean",
+    "lon_rolling_mean",
+    "latitude",
+    "longitude",
+    "halfAngle",
+    "speed"
+  ],
+  "training_date": "2025-10-05T07:14:35.963519",
+  "num_training_samples": 6326,
+  "num_test_samples": 1117,
+  "best_val_loss": 0.031885288655757904,
+  "data_date_range": {
+    "start": "2011-04-04T08:33:00",
+    "end": "2025-10-05T10:12:00"
+  },
+  "statistics": {
+    "avg_time_diff_hours": 7.566666666666666,
+    "time_diff_std_hours": 36.46288376744688
+  }
+}

@@ -1,0 +1,11 @@
+requests
+pandas
+scikit-learn
+torch
+fastapi[standard]
+uvicorn[standard]
+matplotlib
+numpy
+tqdm
+python-dotenv
+pydantic
