@@ -1,4 +1,4 @@
-# 🌞 AI-Driven Solar Storm Prediction and Mitigation System  
+# 🌞 AI-Driven Solar Storm Prediction and Mitigation Platfrom  
 
 ## 🚀 Overview  
 The **AI-Driven Solar Storm Prediction and Mitigation System** is an intelligent platform designed to forecast and visualize solar storms (such as CMEs — Coronal Mass Ejections) and their potential impact on Earth.  
